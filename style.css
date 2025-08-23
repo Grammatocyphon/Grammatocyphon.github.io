@@ -5,3 +5,8 @@ p {
 .poetry {
   text-align: center
 }
+
+#main-header {
+  text-align: center;
+  font-type: sans-serif
+}
