@@ -3,6 +3,7 @@ body {
 }
 
 p {
+  color: #C0C0C0
   text-align: justify
 }
 
@@ -11,6 +12,6 @@ p {
 }
 
 #main-header {
-  text-align: center;
-  font-family: sans-serif
+  font-family: sans-serif;
+  text-align: center
 }
