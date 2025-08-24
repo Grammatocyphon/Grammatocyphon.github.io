@@ -1,17 +1,17 @@
 body {
-  background-color: #484848
+  background-color: #484848;
 }
 
 p {
-  color: #C0C0C0
-  text-align: justify
+  color: #C0C0C0;
+  text-align: justify;
 }
 
 .poetry {
-  text-align: center
+  text-align: center;
 }
 
 #main-header {
   font-family: sans-serif;
-  text-align: center
+  text-align: center;
 }
