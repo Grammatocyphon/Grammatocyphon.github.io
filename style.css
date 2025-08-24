@@ -1,5 +1,5 @@
 body {
-  background-color: #484848;
+  background-color: #202020;
 }
 
 h1 {
@@ -28,12 +28,13 @@ h6 {
 
 p {
   color: #C0C0C0;
+  font-family: Georgia, serif;
   text-align: justify;
 }
 
 pre {
   color: #C0C0C0;
-  font-family: serif;
+  font-family: Georgia, serif;
 }
 
 .poetry {
