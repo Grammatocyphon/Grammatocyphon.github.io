@@ -1,21 +1,12 @@
 body {
-  background-color: #202020;
-  color: #C0C0C0;
-  font-family: Georgia, serif;
 }
 
 h1 {
-  color: #C0C0C0;
-  font-family: "Trebuchet MS", sans-serif;
   font-size: 40px;
-  text-align: center;
 }
 
 h2 {
-  color: #C0C0C0;
-  font-family: "Trebuchet MS", sans-serif;
   font-size: 30px;
-  text-align: center;
 }
 
 h3 {
@@ -40,6 +31,18 @@ p {
 
 pre {
   
+}
+
+.foreground {
+  background-color: #202020;
+  color: #C0C0C0;
+  font-family: Georgia, serif;
+}
+
+.header {
+  color: #C0C0C0;
+  font-family: "Trebuchet MS", sans-serif;
+  text-align: center;
 }
 
 .poetry {
