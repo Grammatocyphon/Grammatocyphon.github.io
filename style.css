@@ -3,7 +3,6 @@ body {
 }
 
 div {
-  padding: 25px;
 }
 
 h1 {
@@ -35,6 +34,7 @@ hr {
 }
 
 p {
+  padding: 25px;
   text-align: justify;
 }
 
