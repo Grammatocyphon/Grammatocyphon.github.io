@@ -44,6 +44,14 @@ pre {
 }
 
 .foreground {
+  display: flex;
+}
+
+.foreground > .header + .main {
+  
+}
+
+.main {
   background-color: #202020;
   color: #C0C0C0;
   font-family: Georgia, serif;
