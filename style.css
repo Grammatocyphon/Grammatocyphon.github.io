@@ -1,5 +1,5 @@
 body {
-  background-color:#101010;
+  background-color: #101010;
 }
 
 div {
@@ -42,8 +42,8 @@ pre {
   background-color: #202020;
   color: #C0C0C0;
   font-family: Georgia, serif;
-  margin:auto;
-  width:600px;
+  margin: auto;
+  width: 1200px;
 }
 
 .header {
