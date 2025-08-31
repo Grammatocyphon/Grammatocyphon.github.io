@@ -30,7 +30,12 @@ h6 {
   
 }
 
+hr {
+  color: #C0C0C0;
+}
+
 p {
+  padding: 25px;
   text-align: justify;
 }
 
