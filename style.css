@@ -10,7 +10,6 @@ h1 {
 }
 
 h2 {
-  font-size: 30px;
 }
 
 h3 {
@@ -34,6 +33,7 @@ hr {
 }
 
 nav {
+  font-size: 30px;
   padding-bottom: 25px;
 }
 
