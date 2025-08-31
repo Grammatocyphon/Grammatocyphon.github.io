@@ -3,6 +3,8 @@ body {
 }
 
 div {
+  background-color: #202020;
+  color: #C0C0C0;
 }
 
 h1 {
@@ -46,21 +48,21 @@ pre {
   
 }
 
+.button:hover {
+  background-color:#181818;
+}
+
 .foreground {
   
 }
 
 .main {
-  background-color: #202020;
-  color: #C0C0C0;
   font-family: Georgia, serif;
   margin: auto;
   width: 1200px;
 }
 
 .header {
-  background-color: #181818;
-  color: #C0C0C0;
   font-family: "Trebuchet MS", sans-serif;
   margin: auto;
   text-align: center;
