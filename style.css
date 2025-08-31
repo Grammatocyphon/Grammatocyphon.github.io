@@ -3,7 +3,6 @@ body {
 }
 
 div {
-  background-color: #202020;
   color: #C0C0C0;
 }
 
@@ -57,12 +56,14 @@ pre {
 }
 
 .main {
+  background-color: #202020;
   font-family: Georgia, serif;
   margin: auto;
   width: 1200px;
 }
 
 .header {
+  background-color: #202020;
   font-family: "Trebuchet MS", sans-serif;
   margin: auto;
   text-align: center;
