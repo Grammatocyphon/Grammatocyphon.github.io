@@ -1,9 +1,9 @@
 body {
+  background-color:#101010;
 }
 
 div {
-  width:600px;
-  margin:auto;
+  
 }
 
 h1 {
@@ -42,9 +42,12 @@ pre {
   background-color: #202020;
   color: #C0C0C0;
   font-family: Georgia, serif;
+  margin:auto;
+  width:600px;
 }
 
 .header {
+  background-color: #181818;
   color: #C0C0C0;
   font-family: "Trebuchet MS", sans-serif;
   text-align: center;
