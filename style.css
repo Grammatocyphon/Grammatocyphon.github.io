@@ -44,10 +44,6 @@ pre {
 }
 
 .foreground {
-  display: flex;
-}
-
-.foreground > .header + .main {
   
 }
 
