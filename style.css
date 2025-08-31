@@ -55,7 +55,8 @@ pre {
   background-color: #181818;
   color: #C0C0C0;
   font-family: "Trebuchet MS", sans-serif;
-  text-align: center;
+  margin: auto;
+  width: 1200px;
 }
 
 .poetry {
