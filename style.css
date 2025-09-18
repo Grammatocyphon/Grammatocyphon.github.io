@@ -13,7 +13,9 @@ div {
 footer {
   background-color: #202020;
   color: #C0C0C0;
+  margin: auto;
   position: fixed;
+  text-align: center;
   width: 1200px;
 }
 
