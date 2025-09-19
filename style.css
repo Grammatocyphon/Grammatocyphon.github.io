@@ -3,7 +3,7 @@ a {
   text-decoration: none;
 }
 
-a:active, :hover {
+a:active, a:hover {
   text-decoration: underline;
 }
 
