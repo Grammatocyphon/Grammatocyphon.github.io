@@ -3,16 +3,8 @@ a {
   text-decoration: none;
 }
 
-a:active {
+a:active, :hover {
   text-decoration: underline;
-}
-
-a:link {
-  
-}
-
-a:visited{
-  
 }
 
 aside {
