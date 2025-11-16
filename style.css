@@ -7,6 +7,10 @@ a:active, a:hover {
   text-decoration: underline;
 }
 
+article {
+  padding: 25px;
+}
+
 aside {
   
 }
